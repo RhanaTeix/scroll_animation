@@ -1,7 +1,7 @@
 # scroll_animation
 >Simple scroll animation - the contents come from left and right 
  
-Deployment ˚ ༘✶ ⋆｡˚ ⁀➷[_here_](https://rhanateix.github.io/expanding_cards/)
+Deployment ˚ ༘✶ ⋆｡˚ ⁀➷[_here_](https://rhanateix.github.io/scroll_animation/)
 
 ## Table of Contents
 * [General Info](#general-information)
